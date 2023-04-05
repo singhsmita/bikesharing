@@ -1,4 +1,4 @@
-﻿https://github.com/singhsmita/bikesharing/blob/main/Resources/citibike.jpg
+(https://github.com/singhsmita/bikesharing/blob/main/Resources/citibike.jpg)
 ## Project Overview
 
 ### Purpose
